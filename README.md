@@ -1,6 +1,21 @@
-I’m Mahmoud Rabea, a passionate Full-Stack Web Developer with a background in biotechnology and a strong drive to build modern, scalable, and user-friendly web applications. Over the past few years, I’ve combined my technical expertise with my experience in teaching, customer service, and problem-solving to deliver digital solutions that not only work but also make an impact. I specialize in technologies such as React, Node.js, Express, MongoDB, and Tailwind CSS, and I enjoy transforming ideas into functional applications that improve everyday life. I’m always eager to learn new tools, collaborate with teams, and explore creative approaches to web development. My goal is to create clean, efficient, and innovative solutions while continually enhancing my skills and staying current with the latest industry trends. When I’m not coding, you’ll often find me exploring new technologies, solving challenges, or brainstorming ways to make digital experiences more seamless.
+# Hi, I'm Mahmoud 👋  
 
-My focus is on modern web technologies like React, Node.js, Express, and MongoDB. I enjoy learning new tools, collaborating with teams, and turning ideas into effective solutions.
+💻 Full-Stack Developer (MERN Stack)  
+🚀 Passionate about building scalable web applications  
+🌱 Currently enhancing my backend & deployment skills  
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/mahmoud-rabea-456547259/) | [Portfolio](https://mahmoud-rabea.pages.dev/)  
 
-Live Demo:
-https://mahmoud-rabea.pages.dev/
+## 🔧 Skills
+- **Frontend:** React.js, Tailwind CSS, JavaScript, HTML, CSS  
+- **Backend:** Node.js, Express.js, REST APIs  
+- **Database:** MongoDB (Atlas)  
+- **Tools:** Git, GitHub, Postman, VS Code  
+
+## 🚀 Featured Projects
+- [🛒 E-Commerce App](https://zelia.pages.dev/) – Full MERN e-commerce with cart & payment  
+- [🌤️ Weather App](https://tempature-app.vercel.app/) – Fetches real-time weather API  
+- [📝 TO-DO-LIST](https://to-do-list1.pages.dev/) – CRUD app with authentication  
+
+👉 Check out more projects in my [Repositories](https://github.com/mahmoudrabea321?tab=repositories)!
+
+
