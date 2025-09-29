@@ -1,3 +1,6 @@
 I’m Mahmoud Rabea, a passionate Full-Stack Web Developer with a background in biotechnology and a strong drive to build modern, scalable, and user-friendly web applications. Over the past few years, I’ve combined my technical expertise with my experience in teaching, customer service, and problem-solving to deliver digital solutions that not only work but also make an impact. I specialize in technologies such as React, Node.js, Express, MongoDB, and Tailwind CSS, and I enjoy transforming ideas into functional applications that improve everyday life. I’m always eager to learn new tools, collaborate with teams, and explore creative approaches to web development. My goal is to create clean, efficient, and innovative solutions while continually enhancing my skills and staying current with the latest industry trends. When I’m not coding, you’ll often find me exploring new technologies, solving challenges, or brainstorming ways to make digital experiences more seamless.
 
 My focus is on modern web technologies like React, Node.js, Express, and MongoDB. I enjoy learning new tools, collaborating with teams, and turning ideas into effective solutions.
+
+Live Demo:
+https://mahmoud-rabea.pages.dev/
