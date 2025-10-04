@@ -2,7 +2,7 @@ import zelia from '../assets/project1.png';
 import car from '../assets/car.png';
 import todo from '../assets/to-do-list.png';
 import weather from '../assets/weather.png';
-
+import note from '../assets/note.png'
 
 export default function Projects() {
   return (
@@ -27,8 +27,25 @@ export default function Projects() {
               <a href="https://zelia.pages.dev/" target="_blank" className="text-indigo-400 hover:underline">Live Demo</a>
             </div>
           </div>
+          {/* Project 2 - Zelia */}
+          <div className="bg-gray-800 p-6 rounded-xl shadow-lg">
+            <img src={note} alt="NoteBook App" className="rounded-lg mb-4" />
+            <h3 className="text-xl font-semibold mb-2 text-amber-50">JotNote</h3>
+            <p className="text-gray-300 mb-3">
+              📝 NoteBook App
 
-          {/* Project 2 - Weather App */}
+A full-stack web application that allows users to create, edit, and manage personal notes in a simple and modern interface.
+            </p>
+            <p className="text-gray-400 mb-3">
+              <span className="font-semibold">Tech:</span> React, Node.js, Express, MongoDB, Tailwind
+            </p>
+            <div className="flex gap-4">
+              <a href="https://github.com/mahmoudrabea321/Note-Book-frontend" target="_blank" className="text-indigo-400 hover:underline">GitHub</a>
+              <a href="https://jotnote.pages.dev/" target="_blank" className="text-indigo-400 hover:underline">Live Demo</a>
+            </div>
+          </div>
+
+          {/* Project 3 - Weather App */}
           <div className="bg-gray-800 p-6 rounded-xl shadow-lg">
             <img src={weather} alt="Weather App" className="rounded-lg mb-4" />
             <h3 className="text-xl font-semibold mb-2 text-amber-50">Weather App</h3>
@@ -45,7 +62,7 @@ export default function Projects() {
             </div>
           </div>
 
-          {/* Project 3 - To-Do List */}
+          {/* Project4 - To-Do List */}
           <div className="bg-gray-800 p-6 rounded-xl shadow-lg">
             <img src={todo} alt="To-Do List App" className="rounded-lg mb-4" />
             <h3 className="text-xl font-semibold mb-2 text-amber-50">To-Do List</h3>
@@ -59,23 +76,6 @@ export default function Projects() {
             <div className="flex gap-4">
               <a href="https://github.com/mahmoudrabea321/TO-DO-LIST" target="_blank" className="text-indigo-400 hover:underline">GitHub</a>
               <a href="https://to-do-list1.pages.dev/" target="_blank" className="text-indigo-400 hover:underline">Live Demo</a>
-            </div>
-          </div>
-
-          {/* Project 4 - Car Inventory */}
-          <div className="bg-gray-800 p-6 rounded-xl shadow-lg">
-            <img src={car} alt="Car Inventory App" className="rounded-lg mb-4" />
-            <h3 className="text-xl font-semibold mb-2 text-amber-50">Car Inventory App</h3>
-            <p className="text-gray-300 mb-3">
-              A professional Car Inventory Management application built with React.  
-              Helps users manage and track cars in an inventory system.
-            </p>
-            <p className="text-gray-400 mb-3">
-              <span className="font-semibold">Tech:</span> React, Vite, Tailwind
-            </p>
-            <div className="flex gap-4">
-              <a href="https://github.com/mahmoudrabea321/Car-Inventory" target="_blank" className="text-indigo-400 hover:underline">GitHub</a>
-              <a href="https://car-inventory.pages.dev/" target="_blank" className="text-indigo-400 hover:underline">Live Demo</a>
             </div>
           </div>
         </div>
