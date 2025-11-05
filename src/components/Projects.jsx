@@ -1,8 +1,10 @@
 import zelia from '../assets/project1.png';
-import car from '../assets/car.png';
 import todo from '../assets/to-do-list.png';
 import weather from '../assets/weather.png';
 import note from '../assets/note.png'
+import woo from '../assets/woo.png';
+import hotel from '../assets/hotel.png';
+
 
 export default function Projects() {
   return (
@@ -11,7 +13,31 @@ export default function Projects() {
         <h2 className="text-3xl font-bold mb-8 text-center text-white">My Projects</h2>
 
         <div className="grid md:grid-cols-2 gap-8">
-          {/* Project 1 - Zelia */}
+          {/* Project 1 - woocommerce */}
+          <div className="bg-gray-800 p-6 rounded-xl shadow-lg">
+            <img src={woo} alt="WooCommerce App" className="rounded-lg mb-4" />
+            <h3 className="text-xl font-semibold mb-2 text-amber-50">LYNX</h3>
+            <p className="text-gray-300 mb-3">
+            A fully functional WooCommerce eCommerce website built with WordPress, featuring product listings, shopping cart, checkout system, and payment integration. Designed for a seamless shopping experience with a responsive and modern layout.
+            </p>
+            <p className="text-gray-400 mb-3">
+              <span className="font-semibold">Tech:</span> WordPress, WooCommerce, and custom plugins,
+            </p>
+           
+          </div>
+           {/* Project 2 - booking */}
+           <div className="bg-gray-800 p-6 rounded-xl shadow-lg">
+            <img src={hotel} alt="WooCommerce App" className="rounded-lg mb-4" />
+            <h3 className="text-xl font-semibold mb-2 text-amber-50">Hoteluxe</h3>
+            <p className="text-gray-300 mb-3">
+            A responsive hotel booking website built with WordPress, allowing users to browse rooms, check availability, and make online reservations easily. Designed for a smooth user experience with an elegant and modern layout.
+            </p>
+            <p className="text-gray-400 mb-3">
+              <span className="font-semibold">Tech:</span> WordPress, plugin customization, and UI/UX optimization.
+            </p>
+            
+          </div>
+          {/* Project 3 - Zelia */}
           <div className="bg-gray-800 p-6 rounded-xl shadow-lg">
             <img src={zelia} alt="E-Commerce App" className="rounded-lg mb-4" />
             <h3 className="text-xl font-semibold mb-2 text-amber-50">Zelia</h3>
@@ -27,7 +53,7 @@ export default function Projects() {
               <a href="https://zelia.pages.dev/" target="_blank" className="text-indigo-400 hover:underline">Live Demo</a>
             </div>
           </div>
-          {/* Project 2 - Zelia */}
+          {/* Project 4 - JotNote */}
           <div className="bg-gray-800 p-6 rounded-xl shadow-lg">
             <img src={note} alt="NoteBook App" className="rounded-lg mb-4" />
             <h3 className="text-xl font-semibold mb-2 text-amber-50">JotNote</h3>
@@ -45,7 +71,7 @@ A full-stack web application that allows users to create, edit, and manage perso
             </div>
           </div>
 
-          {/* Project 3 - Weather App */}
+          {/* Project 5 - Weather App */}
           <div className="bg-gray-800 p-6 rounded-xl shadow-lg">
             <img src={weather} alt="Weather App" className="rounded-lg mb-4" />
             <h3 className="text-xl font-semibold mb-2 text-amber-50">Weather App</h3>
@@ -62,7 +88,7 @@ A full-stack web application that allows users to create, edit, and manage perso
             </div>
           </div>
 
-          {/* Project4 - To-Do List */}
+          {/* Project 6 - To-Do List */}
           <div className="bg-gray-800 p-6 rounded-xl shadow-lg">
             <img src={todo} alt="To-Do List App" className="rounded-lg mb-4" />
             <h3 className="text-xl font-semibold mb-2 text-amber-50">To-Do List</h3>
