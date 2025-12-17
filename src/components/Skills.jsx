@@ -9,6 +9,10 @@ const skills = [
   "TailwindCSS",
   "Git",
   "REST APIs",
+  "HTML",
+  "CSS",
+  "VITE",
+  "WordPress",
 ];
 
 const Skills = () => {
