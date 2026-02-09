@@ -24,8 +24,8 @@ export default function Projects() {
               <span className="font-semibold">Tech:</span> MongoDB, Express, React, Node.js
             </p>
             <div className="flex gap-4">
-              <a href="https://github.com/mahmoudrabea321/e-commerce-app-frontend" target="_blank" className="text-indigo-400 hover:underline">GitHub</a>
-              <a href="https://zelia.pages.dev/" target="_blank" className="text-indigo-400 hover:underline">Live Demo</a>
+              <a href="https://github.com/mahmoudrabea321/clothesStore" target="_blank" className="text-indigo-400 hover:underline">GitHub</a>
+              <a href="https://clothesstore-znot.onrender.com" target="_blank" className="text-indigo-400 hover:underline">Live Demo</a>
             </div>
            
           </div>
