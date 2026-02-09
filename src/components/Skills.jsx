@@ -13,6 +13,7 @@ const skills = [
   "CSS",
   "VITE",
   "WordPress",
+  "GitHub"
 ];
 
 const Skills = () => {

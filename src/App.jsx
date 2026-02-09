@@ -1,4 +1,3 @@
-// this my whole portifolio and i wanna to make the background-color in the skills page as the other and i wanna to ask if the photo of each project is necessary or not and if necessary how can i get the screen img for each project
 import React from "react";
 import Navbar from "./components/Navbar";
 import Home from "./components/Home";
