@@ -25,7 +25,7 @@ export default function Projects() {
             </p>
             <div className="flex gap-4">
               <a href="https://github.com/mahmoudrabea321/clothesStore" target="_blank" className="text-indigo-400 hover:underline">GitHub</a>
-              <a href="https://clothesstore-znot.onrender.com" target="_blank" className="text-indigo-400 hover:underline">Live Demo</a>
+              <a href="https://clothesstore-gpmk.onrender.com" target="_blank" className="text-indigo-400 hover:underline">Live Demo</a>
             </div>
            
           </div>
@@ -78,7 +78,7 @@ export default function Projects() {
             <p className="text-gray-300 mb-3">
               📝 NoteBook App
 
-A full-stack web application that allows users to create, edit, and manage personal notes in a simple and modern interface.
+             A full-stack web application that allows users to create, edit, and manage personal notes in a simple and modern interface.
             </p>
             <p className="text-gray-400 mb-3">
               <span className="font-semibold">Tech:</span> React, Node.js, Express, MongoDB, Tailwind
